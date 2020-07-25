@@ -9,3 +9,5 @@ The World Happiness Dashboard is created for visualize the data from the World H
 The plots and graphs are created in Javascript by D3 (https://d3js.org), MapBox (https://www.mapbox.com/maps), Leaflet (https://leafletjs.com), and Plotly graphing library (https://plot.ly/javascript).
 ### Dashboard
 Dashboard is created in html with Bootstrap (https://getbootstrap.com) and Font Awesome Icon (https://faicons.com).
+
+Copyright © 2019 Norman Lo
